@@ -20,7 +20,7 @@ Para ver el ejemplo final, se debe abrir el archivo demo.html
 
 Varias opciones de inicio rápido están disponibles:
 
-* [Descarga la ultima version](https://github.com/lvillasante/Bolivia-maphilight-politico/archive/master.zip).
+* [Descarga la ultima version](https://github.com/lvillasante/bolivia-maphilight-politico/archive/master.zip).
 * Clonar el repositorio: `git clone https://github.com/lvillasante/bolivia-maphilight-politico.git`.
 
 
@@ -31,7 +31,7 @@ Dentro de la descarga se encuentran los siguientes directorios y archivos:
 ```
 Bolivia-maphilight/
 ├── image/
-│   ├── map-of-bolivia.png
+│   ├── map-of-bolivia-politico.jpg
 ├── js/
 │   └── jquery.maphilight.min.js
 ```
