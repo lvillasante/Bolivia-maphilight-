@@ -1,5 +1,5 @@
-Bolivia-maphilight-politico
-==================
+Bolivia maphilight político
+===========================
 
 Bolivia Maphilight es un proyecto para mostrar el mapa POLITICO de Bolivia con áreas "sencibles" de los nueve departamentos, listo para colocar el link a cada departamento de forma independiente.
 
@@ -20,7 +20,7 @@ Para ver el ejemplo final, se debe abrir el archivo demo.html
 
 Varias opciones de inicio rápido están disponibles:
 
-* [Descarga la ultima version](https://github.com/lvillasante/Bolivia-maphilight/archive/master.zip).
+* [Descarga la ultima version](https://github.com/lvillasante/Bolivia-maphilight-politico/archive/master.zip).
 * Clonar el repositorio: `git clone https://github.com/lvillasante/bolivia-maphilight-politico.git`.
 
 
